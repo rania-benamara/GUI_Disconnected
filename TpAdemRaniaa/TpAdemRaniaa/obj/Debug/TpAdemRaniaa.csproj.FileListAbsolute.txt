@@ -1,0 +1,10 @@
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\obj\Debug\TpAdemRaniaa.csproj.AssemblyReference.cache
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\obj\Debug\TpAdemRaniaa.Form1.resources
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\obj\Debug\TpAdemRaniaa.Properties.Resources.resources
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\obj\Debug\TpAdemRaniaa.csproj.GenerateResource.cache
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\obj\Debug\TpAdemRaniaa.csproj.CoreCompileInputs.cache
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\bin\Debug\TpAdemRaniaa.exe.config
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\bin\Debug\TpAdemRaniaa.exe
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\bin\Debug\TpAdemRaniaa.pdb
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\obj\Debug\TpAdemRaniaa.exe
+C:\Users\2337073\source\repos\TpAdemRaniaa\TpAdemRaniaa\obj\Debug\TpAdemRaniaa.pdb
